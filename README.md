@@ -27,19 +27,5 @@ O script SQL proporciona a criação das tabelas, inserção de dados e a execu�
 ## 🧮Dashboard Interativo do Xbox Game Plan
 Este projeto realiza uma análise de dados utilizando uma base fictícia do Xbox, com foco nos preços de assinatura do Xbox Game Plan. Através de uma tabela dinâmica no Excel, foram analisados dados sobre os tipos de assinatura (Mensal, Anual, Trimestral) e os planos disponíveis (Ultimate, Core, Standard). A análise proporciona uma visão detalhada dos preços totais por tipo de plano, ajudando a identificar tendências e comparações entre os diferentes modelos de assinatura do serviço.
 
-# 💻 Como Rodar os Projetos
-
-## Projeto de E-commerce:
-Importe o arquivo SQL no MySQL para criar as tabelas.
-
-Execute as consultas para explorar os dados inseridos.
-## Projeto de Oficina Mecânica:
-Importe o arquivo SQL no MySQL para criar as tabelas e dados.
-
-Execute as consultas SQL para analisar o desempenho dos mecânicos e serviços.
-## Dashboard Xbox:
-Abra o arquivo Excel com a base de dados.
-
-Utilize as tabelas dinâmicas para gerar relatórios personalizados sobre os planos de assinatura.
-## ✨ Contribuições
+# ✨ Contribuições
 Se você tem sugestões ou melhorias para os projetos, fique à vontade para abrir um pull request ou deixar uma issue para discussão.
